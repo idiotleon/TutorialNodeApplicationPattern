@@ -1,0 +1,14 @@
+{
+  "name": "tutorialnodeapplicationpatterns-membership",
+  "author": "Rob Conery - Yang Lu",
+  "description": "A membership system patterned after Devise",
+  "dependencies": {},
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "mocha": "^4.1.0",
+    "should": "^13.2.1"
+  }
+}

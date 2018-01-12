@@ -5,5 +5,5 @@ console.log(user.getName());
 console.log(otherUser.getName());
 
 user.setName("Steve");
-// otherUser
+// otherUser, not user
 console.log(otherUser.getName());
