@@ -1,6 +1,7 @@
 {
   "name": "tutorialnodeapplicationpatterns-membership",
   "author": "Rob Conery - Yang Lu",
+  "version": "0.0.1",
   "description": "A membership system patterned after Devise",
   "dependencies": {},
   "devDependencies": {
